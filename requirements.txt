@@ -1,0 +1,13 @@
+### Mac/Linux Command (don't include the #):
+#python3 -m pip install --upgrade pip setuptools wheel
+#python3 -m pip install --upgrade -r requirements.txt
+# Up-to-date package management tools
+pip
+setuptools
+wheel
+ipython
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
