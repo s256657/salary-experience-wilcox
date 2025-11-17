@@ -13,3 +13,4 @@ seaborn
 scikit-learn
 jupyter
 statsmodels
+lightgbm
