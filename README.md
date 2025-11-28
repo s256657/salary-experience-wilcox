@@ -2,7 +2,7 @@
 Masters capstone project analyzing salary based on experience in field
 
 ## Purpose
-To analyze the relationship and correlation between salary and years of experience in a dataset. Explaining that relationship using regression and breaking down how job title effects the detail of the correlation. Then use machine learning to predict outcomes.
+To analyze the relationship and correlation between salary and years of experience in a dataset. Explaining that relationship using regression and breaking down how job title effects the detail of the correlation. Then use machine learning to predict outcomes. This repo was used to complete a research paper viewable through Overleaf titled [Salary and Experience Analysis using Machine Learning](https://www.overleaf.com/read/vvgygnpzxmzf#c65a26)
 
 ### Organization of Repo
 - analysis
